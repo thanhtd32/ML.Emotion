@@ -32,6 +32,7 @@ Install-Package ML.Emotion -ProjectName YourProject
 Download The UCI Sentiment Labeled Sentences dataset zip file:
 http://archive.ics.uci.edu/ml/machine-learning-databases/00331/sentiment%20labelled%20sentences.zip
 You use the file "yelp_labelled.txt"
+or you can download the file at https://github.com/thanhtd32/ML.Emotion/tree/main/TrainTestSet
 
 # Full code:
 ```C#
