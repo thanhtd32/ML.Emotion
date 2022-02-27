@@ -4,7 +4,7 @@ This framework is a Machine Learning framework. It is used to predict the Custom
 
 This framework is extended from the Microsoft Machine Learning ML.NET Model.
 
-Datasets and instructions: https://github.com/thanhtd32/ML.Emotion#readme
+Datasets and instructions: https://github.com/thanhtd32/ML.Emotion#readme, Coding demo is "ML.EmotionDemo"
 
 This Research from KMOU (Korea Maritime & Ocean University) - Data Science Lab - Room 407.
 
