@@ -18,7 +18,7 @@ Blog study coding: https://duythanhcse.wordpress.com/
 
 Group support: https://www.facebook.com/groups/communityuni/
 
-![alt text](https://raw.githubusercontent.com/thanhtd32/ML.Emotion/main/Figures/emotion_demo.PNG)
+![alt text](https://raw.githubusercontent.com/thanhtd32/ML.Emotion/main/Images/emotion_demo.PNG)
 
 # ML.Emotion - How to use?
 
