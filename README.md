@@ -27,8 +27,13 @@ Group support: https://www.facebook.com/groups/communityuni/
 ```C#
 Install-Package ML.Emotion -ProjectName YourProject
 ```
+# Train-Test Set sample
 
-#Full code:
+Download The UCI Sentiment Labeled Sentences dataset zip file:
+http://archive.ics.uci.edu/ml/machine-learning-databases/00331/sentiment%20labelled%20sentences.zip
+You use the file "yelp_labelled.txt"
+
+# Full code:
 ```C#
 
 using ML.Emotion.Data;
