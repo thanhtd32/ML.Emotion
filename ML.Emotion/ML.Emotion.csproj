@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>ic_logo_emotion.ico</ApplicationIcon>
+    <Authors>Tran Duy Thanh, Prof. Jun-Ho Huh</Authors>
+    <Company>KMOU - Data Science Lab - 407</Company>
+    <Description>This framework is a Machine Learning framework. It is used to predict the Customer emotion from their feedbacks.
+
+This framework is extended from the Microsoft Machine Learning ML.NET Model.
+
+Datasets and instructions: https://github.com/thanhtd32/ML.Emotion#readme</Description>
+    <PackageIcon>ic_logo_emotion.png</PackageIcon>
+    <PackageProjectUrl>https://github.com/thanhtd32/ML.Emotion</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/thanhtd32/ML.Emotion</RepositoryUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ic_logo_emotion.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\000\ic_logo_emotion.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.7.0" />
+  </ItemGroup>
+
+</Project>

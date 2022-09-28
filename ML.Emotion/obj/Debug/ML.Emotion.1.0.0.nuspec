@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ML.Emotion</id>
+    <version>1.0.0</version>
+    <authors>Tran Duy Thanh, Prof. Jun-Ho Huh</authors>
+    <icon>ic_logo_emotion.png</icon>
+    <projectUrl>https://github.com/thanhtd32/ML.Emotion</projectUrl>
+    <description>This framework is a Machine Learning framework. It is used to predict the Customer emotion from their feedbacks.
+
+This framework is extended from the Microsoft Machine Learning ML.NET Model.
+
+Datasets and instructions: https://github.com/thanhtd32/ML.Emotion#readme</description>
+    <repository url="https://github.com/thanhtd32/ML.Emotion" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.ML" version="1.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/ic_logo_emotion.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\bin\Debug\net6.0\ML.Emotion.dll" target="lib\net6.0\ML.Emotion.dll" />
+    <file src="D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\ic_logo_emotion.ico" target="content\ic_logo_emotion.ico" />
+    <file src="D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\ic_logo_emotion.ico" target="contentFiles\any\net6.0\ic_logo_emotion.ico" />
+    <file src="D:\000\ic_logo_emotion.png" target="\ic_logo_emotion.png" />
+  </files>
+</package>

@@ -1,0 +1,11 @@
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\bin\Release\net6.0\ML.Emotion.deps.json
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\bin\Release\net6.0\ML.Emotion.dll
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\bin\Release\net6.0\ref\ML.Emotion.dll
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\bin\Release\net6.0\ML.Emotion.pdb
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\obj\Release\net6.0\ML.Emotion.GeneratedMSBuildEditorConfig.editorconfig
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\obj\Release\net6.0\ML.Emotion.AssemblyInfoInputs.cache
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\obj\Release\net6.0\ML.Emotion.AssemblyInfo.cs
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\obj\Release\net6.0\ML.Emotion.csproj.CoreCompileInputs.cache
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\obj\Release\net6.0\ML.Emotion.dll
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\obj\Release\net6.0\ref\ML.Emotion.dll
+D:\TranDuyThanh\Papers\Ideas-papers\ML.Emotion\ML.EmotionSolution\ML.Emotion\obj\Release\net6.0\ML.Emotion.pdb
